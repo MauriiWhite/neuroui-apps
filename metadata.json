@@ -1,0 +1,5 @@
+{
+  "name": "NeuroUI Suite",
+  "description": "Una demostración futurista de IA que presenta un Motor de Recomendación de Productos y un Conversor de Temperatura con Red Neuronal, construido con React, Tailwind y TensorFlow.js.",
+  "requestFramePermissions": []
+}
